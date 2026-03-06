@@ -6,7 +6,7 @@
 
 **Title**: "Enhancing Educational Service Delivery through Cloud-Based Digital Infrastructure"
 
-**Authors**: Ogbodo Maxwell
+**Authors**: Group Research
 
 ## 🎯 Overview
 
