@@ -2,7 +2,7 @@
 
 > A comprehensive Python-based simulation model for evaluating hybrid cloud deployment in educational institutions.
 
-## 📚 PhD Research Project
+## 📚 Research Project
 
 **Title**: "Enhancing Educational Service Delivery through Cloud-Based Digital Infrastructure"
 
