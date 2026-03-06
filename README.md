@@ -6,7 +6,7 @@
 
 **Title**: "Enhancing Educational Service Delivery through Cloud-Based Digital Infrastructure"
 
-**Authors**: PhD Research Group, University of the West of Scotland
+**Authors**: Ogbodo Maxwell
 
 ## 🎯 Overview
 
