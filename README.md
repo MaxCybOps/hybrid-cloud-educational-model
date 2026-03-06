@@ -87,11 +87,11 @@ MIT License - See LICENSE file for details
 
 This is an academic research project. For questions or collaboration:
 - Open an issue
-- Contact: [your.email@university.ac.uk]
+- Contact: [ogbodomaxwell23@gmail.com]
 
 ## 🔬 Research Outputs
 
-This simulator generates empirical data for PhD research on:
+This simulator generates empirical data for project research on:
 - Hybrid cloud cost efficiency vs pure deployments
 - RBAC effectiveness in educational cloud systems
 - Architectural suitability for developing regions
