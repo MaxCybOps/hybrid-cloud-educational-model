@@ -1,11 +1,11 @@
 # HYBRID CLOUD MODEL SIMULATOR
-## Ready-to-Run PhD Group Project
+## Ready-to-Run Group Project
 
 ---
 
 ## 🎯 WHAT YOU HAVE
 
-**ONE complete hybrid cloud infrastructure model** that generates data for all four PhD researchers.
+**ONE complete hybrid cloud infrastructure model** that generates data for researchers.
 
 **File**: `HYBRID_CLOUD_MODEL.py` (Complete, working simulator - 500+ lines)
 
