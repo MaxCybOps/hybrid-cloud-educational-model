@@ -2,7 +2,7 @@
 ================================================================================
 HYBRID CLOUD EDUCATIONAL INFRASTRUCTURE SIMULATOR
 ================================================================================
-Complete Model for PhD Group Project
+Complete Model for Group Project
 Title: "Enhancing Educational Service Delivery through Cloud-Based Digital Infrastructure"
 
 This is THE unified artefact that all four researchers use together.
@@ -10,7 +10,7 @@ This is THE unified artefact that all four researchers use together.
 - Generates data for ALL four specializations
 - Ready to run immediately
 
-Author: PhD Research Group
+Author: Group Research 
 Date: February 2026
 ================================================================================
 """
