@@ -74,8 +74,7 @@ This model supports Design Science Research methodology for evaluating hybrid cl
   title={Hybrid Cloud Educational Infrastructure Simulator},
   author={[Your Research Group]},
   year={2026},
-  institution={University of the West of Scotland},
-  url={https://github.com/YOUR-USERNAME/hybrid-cloud-educational-model}
+  url={https://github.com/MaxCybOps/hybrid-cloud-educational-model}
 }
 ```
 
